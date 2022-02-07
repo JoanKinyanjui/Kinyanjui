@@ -1,0 +1,37 @@
+.Nav{
+    width: 100vw;
+    height: max-content;
+    display: flex;
+    line-height: 8vh;
+    position: fixed;
+    background-color: white;
+    align-content: center;
+}
+.Nav-img{
+    width: 7vw;
+    height: 7vw;
+    border-radius: 100%;
+    padding-top: 2px;
+}
+.Hello{
+    background-color: blueviolet;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 3px;
+}
+
+.left{
+    flex: 6;
+    position: absolute;
+    left: 2%;
+}
+.right{
+    right: 4%;
+    flex: 6;
+    position: absolute;
+}
+
+
+
+

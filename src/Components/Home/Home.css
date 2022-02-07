@@ -1,0 +1,60 @@
+.Home{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: black;
+    /* position: relative; */
+    
+}
+.home1{
+    color: blueviolet;
+    flex: 7;
+    text-align: left;
+    margin-top: 20%;
+}
+.home2{
+flex: 5;
+}
+.myImg{
+ width: 30vw;
+ margin-top: 30%;
+
+}
+.home1-1{
+    font-size: 40px;
+}
+.home1-1:first-letter{
+ font-size: 80px;
+ margin-left: 30px;
+ 
+}
+.Socials1{
+
+}
+.socials-1{
+    margin: auto;
+}
+.socials-1 a{
+    text-decoration: none;
+    color: blueviolet;
+}
+.socials-0{
+    list-style-type: none;
+    display: flex;
+}
+
+@media only screen and (max-width: 980px) {
+    .myImg{
+        width: 40vw;
+        margin-top: 50%;
+       
+       }
+       .home1{
+        color: blueviolet;
+        flex: 7;
+        text-align: left;
+        margin-top: 30%;
+        font-size: 13px;
+    }
+    
+}
