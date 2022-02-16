@@ -12,7 +12,7 @@ function Home() {
   <img src='/Images/best.png' className='myImg'/> 
     </div>
     <div className='home2'>
-    <p>Hae there, I'm</p><br />
+  
      <h1 className='myName'><b>Joan Kinyanjui</b></h1><br />
      <h2><b>~FRONT-END DEVELOPER ~</b></h2><br />
      <a href="mailto:kinyanjuijoan52@gmail.com">

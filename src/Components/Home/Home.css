@@ -45,7 +45,7 @@
 .socials-10 i{
     margin-right:2rem ;
     align-content: space-between;
-    color: blueviolet;
+    color: gray;
 }
 
 @media only screen and (max-width: 860px) {

@@ -36,3 +36,14 @@
     font-style: italic;
     cursor: pointer;
 }
+@media only screen and (max-width: 560px) {
+    .container-item{
+       width: 60vw;
+     
+    }
+    .container-item:hover{
+        width: 70vw;
+        opacity: 0.7;
+        box-shadow: 1px 3px 4px blueviolet;
+    }
+  }

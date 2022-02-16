@@ -11,7 +11,7 @@ function Nav() {
     
     <ul className='nav-list'>
       {navItems.map((item)=>(
-<Link to={item.path} className='nav-item'><li>{item.title}</li> </Link>
+<a className='nav-item'><li>{item.title}</li> </a>
       ))}
     </ul>
   

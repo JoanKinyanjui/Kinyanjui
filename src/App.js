@@ -4,33 +4,24 @@ import Nav from './Components/Nav/Nav';
 import About from './Components/About/About';
 import Projects from './Components/Projects/Projects';
 import Contact from './Components/Contact/Contact';
-import {BrowserRouter as Router,Switch,Route,Routes} from "react-router-dom";
-import ScrollToTop from './Components/ScrollToTop';
+// import {BrowserRouter as Router,Switch,Route,Routes} from "react-router-dom";
+
 
 function App() {
 
                               
   return (
     
-    <Router>
-      <ScrollToTop />
-<div className='App'>
-<Nav />
-  <Routes>
-
-    <Route exact path='/'  element={<Home />}/>
     
+<div className='App'>
+{/* <Nav /> */}
+<Home />
+<About />
+<Projects /> 
+<Contact />
 
-     <Route exact path='/about'  element={<About />}/>
-
-     <Route exact path='/projects'  element={<Projects/>}/>
-
-
-    <Route exact path='/contact'  element={<Contact />}/>
-
-  </Routes>
 </div>
-</Router>
+ 
       
     
   );
