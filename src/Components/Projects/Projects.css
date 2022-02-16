@@ -1,13 +1,15 @@
 .Projects{
     width: 100vw;
     height: max-content;
-    color: blueviolet;
+    color: gray;
+    text-align: center;
+    background-color: black;
 }
 .Projects{
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
-.container{
+.container1{
     height: max-content;
     display: flex;
     flex-direction: column;

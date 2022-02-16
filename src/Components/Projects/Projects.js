@@ -1,11 +1,16 @@
 import React from 'react';
+import Work from '../Work/work';
 import './Projects.css';
 
 function Projects(){
     return(
+    <>
         <div className='Projects'>
-            <h1>Projects</h1>
-     <div className='container'>
+            <h1>~ Projects ~</h1>
+            <br />
+            <br />
+            <br />
+     <div className='container1'>
          <div className='container-item'>
 <img className='project-img' alt='carwash' src='/Images/Myportfolio.jpg'/>
 <p>Amani Carwash</p>
@@ -20,6 +25,12 @@ function Projects(){
          </div>
      </div>
         </div>
+
+<div>
+    <Work />
+</div>
+</>
+        
     )
 }
 

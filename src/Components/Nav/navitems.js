@@ -2,29 +2,29 @@ export const navItems= [
     {
     title: 'Home',
     cName: 'nav-item',
-    href:'home',
+    href:'Home',
     path:'/',
     id: 1
     },
     {
     title: 'About',
     cName: 'nav-item',
-    href:'about',
-    path:'/',
+    href:'About',
+    path:'/about',
     id: 2
     },
     {
-    title: 'Contact',
+    title: 'Projects',
     cName: 'nav-item',
-    href:'contact',
-    path:'/',
+    href:'Projects',
+    path:'/projects',
     id: 3
     },
     {
-        title: 'Resume',
+        title: 'Contact',
         cName: 'nav-item',
-        href:'file:///C:/Users/USER/Downloads/Engineer%20Resume.pdf',
-        path:'/',
+        href:'Contact',
+        path:'/contact',
         id: 4
     } 
     //,

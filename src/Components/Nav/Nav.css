@@ -1,37 +1,27 @@
 .Nav{
     width: 100vw;
-    height: max-content;
+    height: 12vh;
+    background-color: transparent;
+    position:  fixed;
+    line-height: 3rem;
+}
+.nav-list{
+    width: 50%;
+    float: right;
     display: flex;
-    line-height: 8vh;
-    position: fixed;
-    background-color: white;
-    align-content: center;
-}
-.Nav-img{
-    width: 7vw;
-    height: 7vw;
-    border-radius: 100%;
-    padding-top: 2px;
-}
-.Hello{
-    background-color: blueviolet;
-    padding-left: 10px;
-    padding-right: 10px;
-    border: none;
-    border-radius: 3px;
-}
+    list-style-type: none;
+    color: gray;
 
-.left{
-    flex: 6;
-    position: absolute;
-    left: 2%;
 }
-.right{
-    right: 4%;
-    flex: 6;
-    position: absolute;
+.nav-item{
+    margin: auto;
+    text-decoration: none;
+    font-weight: 2000;
+    text-transform: capitalize;
+    color: gray;
+    font-size: small;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-
 
 
 

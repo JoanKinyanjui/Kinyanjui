@@ -1,60 +1,151 @@
 .Home{
     width: 100vw;
     height: 100vh;
+    background-image: url('/public/Images/2.jpg');
+    background-position: center;
+    background-size: contain;
     display: flex;
-    background-color: black;
-    /* position: relative; */
-    
 }
 .home1{
-    color: blueviolet;
-    flex: 7;
-    text-align: left;
-    margin-top: 20%;
-}
-.home2{
-flex: 5;
+    width: 30vw;
+    height: max-content;
+    margin-top: 10%;
+    margin-right: 1rem;
+
 }
 .myImg{
- width: 30vw;
- margin-top: 30%;
+    width: 25vw;
+    height: 50vh;
+    box-shadow: 2px 2px 3px gray;
+    border-radius: 100%;
+}
+.home2{
+    height: max-content;
+    width: 60%;
+    color: gray;
+    margin-top: 18%;
+}
+.myName{
+    font-size: 80px;
+    text-shadow: 1px 2px 3px grey;
+}
 
-}
-.home1-1{
-    font-size: 40px;
-}
-.home1-1:first-letter{
- font-size: 80px;
- margin-left: 30px;
- 
-}
-.Socials1{
-
-}
-.socials-1{
-    margin: auto;
-}
-.socials-1 a{
-    text-decoration: none;
-    color: blueviolet;
+.socials{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
 }
 .socials-0{
     list-style-type: none;
     display: flex;
+    float: right;
+    
+}
+.socials-10 i{
+    margin-right:2rem ;
+    align-content: space-between;
+    color: blueviolet;
 }
 
-@media only screen and (max-width: 980px) {
+@media only screen and (max-width: 860px) {
     .myImg{
-        width: 40vw;
-        margin-top: 50%;
-       
-       }
-       .home1{
-        color: blueviolet;
-        flex: 7;
-        text-align: left;
-        margin-top: 30%;
-        font-size: 13px;
+        width: 30vw;
+        height: 45vh;
+        box-shadow: 2px 2px 3px gray;
+        border-radius: 100%;
+        margin: auto;
     }
-    
+    .myName{
+        font-size: 70px;
+        text-shadow: 1px 2px 3px grey;
+    }
+    .home2{
+        height: max-content;
+        width: 50%;
+        color: gray;
+        margin-top: 20%;
+        margin-left: 2rem;
+    }
+}
+.home1{
+    width: 30vw;
+    height: max-content;
+    margin-top: 20%;
+
+}
+@media only screen and (max-width: 680px) {
+    .myImg{
+        width: 30vw;
+        height: 45vh;
+        box-shadow: 2px 2px 3px gray;
+        border-radius: 100%;
+        margin: auto;
+    }
+    .myName{
+        font-size: 65px;
+        text-shadow: 1px 2px 3px grey;
+    }
+    .home2{
+        height: max-content;
+        width: 50%;
+        color: gray;
+        margin-top: 20%;
+        margin-left: 2rem;
+    }
+}
+.home1{
+    width: 30vw;
+    height: max-content;
+    margin-top: 20%;
+
+}
+@media only screen and (min-width: 1000px) {
+    .myImg{
+        width: 30vw;
+        height: 45vh;
+        box-shadow: 2px 2px 3px gray;
+        border-radius: 100%;
+        margin: auto;
+    }
+    .myName{
+        font-size: 70px;
+        text-shadow: 1px 2px 3px grey;
+    }
+    .home2{
+        height: max-content;
+        width: 50%;
+        color: gray;
+        margin-top: 18%;
+        margin-left: 2rem;
+    }
+}
+.home1{
+    width: 30vw;
+    height: max-content;
+    margin-top: 15%;
+
+}
+
+@media only screen and (max-width: 480px) {
+    .myImg{
+        width: 30vw;
+        height: 45vh;
+        box-shadow: 2px 2px 3px gray;
+        border-radius: 100%;
+        margin: auto;
+    }
+    .myName{
+        font-size: 48px;
+        text-shadow: 1px 2px 3px grey;
+    }
+   
+
+.home1{
+    width: 30vw;
+    height: max-content;
+    margin-top: 28%;
+
+}
+
 }

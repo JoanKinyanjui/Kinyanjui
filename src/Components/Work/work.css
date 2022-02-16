@@ -1,0 +1,66 @@
+.All{
+    background-color: black;
+    color: gray;
+    text-align: center;
+    height: max-content;
+    width: 100vw;
+    padding-top: 5rem;
+}
+.All h3{
+    padding-bottom: 2rem;
+}
+.Work{
+    width: 100vw;
+    height: max-content;
+ 
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 4rem;
+}
+.container{
+    width: 15vw;
+    height: 25vh;
+    box-shadow: 2px 2px 4px blueviolet;
+    margin: 1rem;
+    font-size: small;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+}
+.container:hover{
+    box-shadow: 2px 2px 4px blueviolet;
+    color: black;
+    background-color: gray;
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+@media only screen and (max-width: 980px) {
+    .container{
+       width: 25vw;
+       height: 40vh;
+     
+    }
+  }
+  @media only screen and (max-width: 680px) {
+    .container{
+       width: 35vw;
+       height: 45vh;
+     
+    }
+  }
+
+  @media only screen and (max-width: 300px) {
+    .container{
+       width: 50vw;
+       height: 45vh;
+     
+    }
+  }
+
+             
