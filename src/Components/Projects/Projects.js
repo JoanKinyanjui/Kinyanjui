@@ -11,18 +11,18 @@ function Projects(){
             <br />
             <br />
      <div className='container1'>
-         <a href='https://amanicarwash.netlify.app/'><div className='container-item'>
-<img className='project-img' alt='carwash' src='/Images/Myportfolio.jpg'/>
+         <div className='container-item'>
+         <a href='https://amanicarwash.netlify.app/'><img className='project-img' alt='carwash' src='/Images/Myportfolio.jpg'/></a>
 <p>Amani Carwash</p>
-         </div></a>
-         <a href='https://glowwke.com/'><div className='container-item'>
-<img className='project-img' alt='gloww'  src='/Images/project-gloww.jpg'/>
+         </div>
+        <div className='container-item'>
+        <a href='https://glowwke.com/'> <img className='project-img' alt='gloww'  src='/Images/project-gloww.jpg'/></a>
 <p>Gloww Cream Online Shop</p>
-         </div></a>
-         <a href='https://me2ucourier.netlify.app/'><div className='container-item'>
-<img className='project-img' alt='me2u'  src='/Images/project-me2u.jpg'/>
+         </div>
+         <div className='container-item'>
+         <a href='https://me2ucourier.netlify.app/'><img className='project-img' alt='me2u'  src='/Images/project-me2u.jpg'/></a>
 <p>Me2u Courrier</p>
-         </div></a>
+         </div>
      </div>
         </div>
 
