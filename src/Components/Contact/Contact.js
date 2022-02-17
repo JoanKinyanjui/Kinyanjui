@@ -34,14 +34,14 @@ import './Contact.css';
             <div className='Contact'>
             <div className='contact-2'>
               <ul className='location'>
-                <li>
-                  <a> <i class="fas fa-2x fa-map-marker-alt"></i> Nairobi,Kenya.</a>
+                <li >
+                  <a> <i class="fas fa-2x fa-map-marker-alt"></i> <p  className='location-icon' >Nairobi,Kenya. </p></a>
                 </li>
                 <li>
-                <a ><i class="fas fa-2x fa-2x fa-envelope"></i> kinyanjuijoan52@gmail.com</a>
+                <a ><i class="fas fa-2x fa-2x fa-envelope"></i>  <p  className='location-icon' >kinyanjuijoan52@gmail.com </p></a>
                 </li>
                 <li>
-                  <a> <i class="fas fa-2x fa-phone-alt"></i> +254790236990 </a>
+                  <a> <i class="fas fa-2x fa-phone-alt"></i> <p  className='location-icon' > +254790236990 </p> </a>
                 </li>
               </ul>
             </div>
@@ -89,6 +89,9 @@ import './Contact.css';
             
     </div>
            
+            </div>
+            <div className='div-logo'>
+              <img  className='logo' src='/Images/mylogo.png'/>
             </div>
             <div class='handcraft'>
               <hr />

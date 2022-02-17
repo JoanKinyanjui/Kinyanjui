@@ -43,22 +43,22 @@
 @media only screen and (max-width: 980px) {
     .container{
        width: 25vw;
-       height: 40vh;
+       height: 25vh;
      
     }
   }
   @media only screen and (max-width: 680px) {
     .container{
        width: 35vw;
-       height: 30vh;
+       height: 25vh;
      
     }
   }
 
-  @media only screen and (max-width: 300px) {
+  @media only screen and (max-width: 480px) {
     .container{
-       width: 50vw;
-       height: 30vh;
+       width: 42vw;
+       height: 22vh;
      
     }
   }
