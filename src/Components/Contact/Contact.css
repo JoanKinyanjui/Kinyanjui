@@ -51,7 +51,9 @@
     color: gray;
     text-align: center;
     background-color: black;
-    font-size: xx-small;
+    font-size: x-small;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 .location{
     text-align: left;

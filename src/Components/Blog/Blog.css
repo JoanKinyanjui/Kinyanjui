@@ -1,0 +1,52 @@
+.Blog{
+    width: 100vw;
+    height: 92vh;
+    position: relative;
+    background-color: black;
+}
+.first-image{
+    width: 100vw;
+    height: 80vh;
+    position: relative;
+}
+.first-actual-image{
+    width: 100vw;
+    height: 100%;
+}
+.first-title{
+    position: absolute;
+    top: 2%;
+    width: 100vw;
+    text-align: center;
+}
+.second-title{
+    position: absolute;
+    bottom: 0;
+    height: 5rem;
+    width: 100vw;
+    text-align: center;
+}
+.second-title ul{
+    display: flex;
+    list-style-type: none;
+    color: blueviolet;
+    line-height: 5rem;
+}
+.second-title ul li{
+    margin: auto;
+}
+.first-title p{
+    color: black;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Redressed', cursive;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 400%;
+    font-style: italic;
+    text-shadow: 2px 2px 3px rgb(74, 73, 73);
+}
+.first-title hr{
+    width: 10vw;
+    text-align: center;
+    margin: auto;
+}

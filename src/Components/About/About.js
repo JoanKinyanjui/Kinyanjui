@@ -1,6 +1,7 @@
 import { Button } from 'react-bootstrap';
 import React from 'react';
 import './About.css';
+import { Link } from 'react-router-dom';
 
 export default function About() {
   return(
@@ -30,14 +31,14 @@ Here are a few technologies that I have worked with:
 <li class="skills">BootStrap</li>
 </ul>
 </div>
-<Button style={{
+<Link to='/BlogLayout'><Button style={{
        color:'gray',
       margin:'auto', 
       padding:'2px 30px',
        borderRadius:'12px', 
        backgroundColor:'blueviolet',
        color:'black',
-       border:'none'}}>View CV</Button>
+       border:'none'}}>Visit My Blog</Button></Link>
         </p>
       </div>
     </div>
