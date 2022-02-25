@@ -6,7 +6,7 @@ import SinglePost from './SinglePost';
 
 function Single() {
   return (<>
-  <Topbar />
+  <Topbar title='Back' path='/BlogLayout' />
   <div className='Main-Single'>
     
      

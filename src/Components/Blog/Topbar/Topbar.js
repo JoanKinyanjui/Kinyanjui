@@ -1,8 +1,12 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import './Topbar.css';
 
-function Topbar() {
+
+function Topbar(props) {
+  const navigate = useNavigate();
+
+
   return (
     <div className='Topbar'> 
   
@@ -18,10 +22,10 @@ function Topbar() {
 
     </div>
     <div className='goBack'>
-      <Link to='/'><button className='goback-button'>back to HOME</button> </Link>
+        <button onClick={() => navigate(-1)} className='goback-button'> {props.title}</button>
     </div>
     </div>
   )
 }
 
-export default Topbar
+export default Topbar;

@@ -25,6 +25,7 @@ function App() {
     
         <Route exact path='/' element={<All />} />
         <Route exact path='/BlogLayout'  element={<BlogLayout />}/>
+        <Route exact path='/single' element={<Single />} />
       
       
       </Routes>

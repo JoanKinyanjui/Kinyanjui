@@ -68,6 +68,7 @@ color: gray;
     color: rgb(44, 43, 43);
     font-size: medium;
     margin: 10px;
+    text-align: left;
 }
 @media only screen and (max-width:680px) {
     .CorrectionArea span{

@@ -6,9 +6,8 @@ function Container2() {
       <div className='Container2'>
       <h5>ABOUT ME</h5>
       <div className='myFlex'>
-      <img className='aboutme-img' src='/Images/me.jpg'/>
-      <p>I'm Marianne Richmond—writer, artist and inspirationalist. My words have touched millions over the past two decades through my children's books and gift products.
-  Basically I put love into words and help you connect with the people + moments that matter. </p>
+      <img className='aboutme-img' src='/Images/22.jpeg'/>
+      <p>I'm Joan Kinyanjui, I sometimes enjoy writing  about my everyday experiences concernig life,style,travel and tech.  </p>
   
       <div className='categories'>
           <p>CATEGORIES </p>

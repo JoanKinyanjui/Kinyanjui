@@ -3,8 +3,10 @@ import Topbar from '../Topbar/Topbar';
 import './Write.css';
 
 function Write() {
-  return (<>
-    <div div className='write'>
+  return (
+    
+  <div>
+    <div className='write'>
         <img  src='/images/me.jpg' className='writeImage'/> 
     <form className='writeForm'>
         <div className='writeFormGroup'>
@@ -19,7 +21,7 @@ function Write() {
         <button className='writeSubmit'>Publish</button>
     </form>
     </div>
-    </>
+   </div>
   )
 }
 
