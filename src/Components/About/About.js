@@ -26,6 +26,7 @@ Here are a few technologies that I have worked with:
 <ul class='skills-set'>
 <li class="skills">JavaScript</li>
 <li class="skills">ReactJs</li>
+<li class="skills">Redux</li>
 <li class="skills">HTML &  CSS</li>
 <li class="skills">SASS</li>
 <li class="skills">BootStrap</li>
