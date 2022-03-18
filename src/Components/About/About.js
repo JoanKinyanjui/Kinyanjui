@@ -7,7 +7,7 @@ export default function About() {
   return(
     <div className='About'>
       <div className='item'>
-        <img  src='/Images/222.jpeg' className='me'/>
+        <img  src='/Images/2222.jpeg' className='me'/>
       </div>
 
       <div className='item'>
@@ -26,7 +26,8 @@ Here are a few technologies that I have worked with:
 <ul class='skills-set'>
 <li class="skills">JavaScript</li>
 <li class="skills">ReactJs</li>
-<li class="skills">Redux</li>
+<li class="skills">BootStrap</li>
+<li class="skills">Node js</li>
 <li class="skills">HTML &  CSS</li>
 <li class="skills">SASS</li>
 <li class="skills">BootStrap</li>
