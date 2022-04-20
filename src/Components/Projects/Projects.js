@@ -12,7 +12,7 @@ function Projects(){
             <br />
      <div className='container1'>
          <div className='container-item'>
-         <a href='https://amanicarwash.netlify.app/'><img className='project-img' alt='carwash' src='/Images/Myportfolio.jpg'/></a>
+         <a href='https://amanicarwash.co.ke'><img className='project-img' alt='carwash' src='/Images/Myportfolio.jpg'/></a>
 <p>Amani Carwash</p>
          </div>
         <div className='container-item'>
