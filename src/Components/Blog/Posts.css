@@ -37,8 +37,10 @@
     margin-top: 15px;
     color: gray;
     text-transform: capitalize;
+    text-decoration: none;
     }
     .postDate{
+        text-decoration: none;
         font-style: italic;
         font-size: small;
         color: gray;

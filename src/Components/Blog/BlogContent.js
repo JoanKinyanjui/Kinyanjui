@@ -9,7 +9,7 @@ function BlogContent() {
   return (<>
     <div className='Blog-content'>
        <Link to='/Single'>  <div className='Container1'>
-              {/* <Posts />            */}
+              <Posts />           
         </div></Link>
 <div className='BlogContent Container2'>
 <Container2 />

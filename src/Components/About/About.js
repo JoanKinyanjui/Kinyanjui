@@ -7,7 +7,7 @@ export default function About() {
   return(
     <div className='About'>
       <div className='item'>
-        <img  src='/Images/2222.jpeg' className='me'/>
+        <img  src='/Images/222.jpeg' className='me'/>
       </div>
 
       <div className='item'>
