@@ -24,11 +24,13 @@ love for making things, and my mission-driven work ethic to literally change the
 Here are a few technologies that I have worked with:
 <br />
 <ul class='skills-set'>
-<li class="skills">Mongodb</li>
-<li class="skills">Express</li>
+<li class="skills">JavaScript</li>
 <li class="skills">Node js</li>
 <li class="skills">ReactJs</li>
-<li class="skills">JavaScript</li>
+<li class="skills">Express</li>
+<li class="skills">Mongodb</li>
+<li class="skills">Python</li>
+<li class="skills">Django</li>
 <li class="skills">HTML &  CSS</li>
 <li class="skills">SASS</li>
 <li class="skills">BootStrap</li>
