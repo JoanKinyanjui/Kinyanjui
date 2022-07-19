@@ -28,6 +28,8 @@ Here are a few technologies that I have worked with:
 <li class="skills">Node js</li>
 <li class="skills">ReactJs</li>
 <li class="skills">Express</li>
+<li class="skills">Redux</li>
+<li class="skills">Postgresql</li>
 <li class="skills">Mongodb</li>
 <li class="skills">Python</li>
 <li class="skills">Django</li>
