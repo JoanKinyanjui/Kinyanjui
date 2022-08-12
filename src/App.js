@@ -12,6 +12,7 @@ import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import Post from './Components/Blog/Posts';
 import SinglePost from './Components/Blog/SinglePost/SinglePost';
 import All from './Components/All';
+import Resume from './Components/Resume';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <Routes>
     
         <Route exact path='/' element={<All />} />
+        <Route exact path='/Resume' element={<Resume />} />
         <Route exact path='/BlogLayout'  element={<BlogLayout />}/>
         <Route exact path='/single' element={<Single />} />
       

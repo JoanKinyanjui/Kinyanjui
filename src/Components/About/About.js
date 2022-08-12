@@ -38,14 +38,22 @@ Here are a few technologies that I have worked with:
 <li class="skills">BootStrap</li>
 </ul>
 </div>
-<Link to='/BlogLayout'><Button style={{
+{/* <Link to='/BlogLayout'><Button style={{
        color:'gray',
       margin:'auto', 
       padding:'2px 30px',
        borderRadius:'12px', 
        backgroundColor:'blueviolet',
        color:'black',
-       border:'none'}}>Visit My Blog</Button></Link>
+       border:'none'}}> My Blog</Button></Link> */}
+       <Link to='/Resume'><Button style={{
+       color:'gray',
+       margin:'auto', 
+       padding:'2px 30px',
+       borderRadius:'12px', 
+       backgroundColor:'blueviolet',
+       color:'black',
+       border:'none'}}> My CV</Button></Link>
         </p>
       </div>
     </div>
