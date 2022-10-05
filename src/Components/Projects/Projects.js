@@ -28,7 +28,7 @@ function Projects(){
 <p>Feedback Application</p>
          </div>
          <div className='container-item'>
-         <a href='https://subtlestatements.netlify.app/'><img className='project-img' alt='me2u'  src='/Images/js-app.png'/></a>
+         <a href='https://spiffy-bombolone-8d6b22.netlify.app/'><img className='project-img' alt='me2u'  src='/Images/js-app.png'/></a>
 <p>E-commerce Shop</p>
          </div>
      </div>
