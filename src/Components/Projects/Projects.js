@@ -32,7 +32,7 @@ function Projects(){
 <p>E-commerce Shop</p>
          </div>
          <div className='container-item'>
-         <a href='https://whitelisting-dapp-five.vercel.app/'><img className='project-img' alt='whitelisting dapp'  src='/Images/js-app.png'/></a>
+         <a href='https://whitelisting-dapp-five.vercel.app/'><img className='project-img' alt='whitelisting dapp'  src='/Images/whitelist.png'/></a>
 <p>Whitelisting Dapp</p>
          </div>
      </div>
