@@ -24,12 +24,16 @@ function Projects(){
 <p>Me2u Courrier</p>
          </div>
          <div className='container-item'>
-         <a href='https://zenbit.netlify.app/'><img className='project-img' alt='me2u'  src='/Images/work2.png'/></a>
+         <a href='https://zenbit.netlify.app/'><img className='project-img' alt='feedback application'  src='/Images/work2.png'/></a>
 <p>Feedback Application</p>
          </div>
          <div className='container-item'>
-         <a href='https://spiffy-bombolone-8d6b22.netlify.app/'><img className='project-img' alt='me2u'  src='/Images/js-app.png'/></a>
+         <a href='https://spiffy-bombolone-8d6b22.netlify.app/'><img className='project-img' alt='subtle-statements'  src='/Images/js-app.png'/></a>
 <p>E-commerce Shop</p>
+         </div>
+         <div className='container-item'>
+         <a href='https://whitelisting-dapp-five.vercel.app/'><img className='project-img' alt='whitelisting dapp'  src='/Images/js-app.png'/></a>
+<p>Whitelisting Dapp</p>
          </div>
      </div>
         </div>
