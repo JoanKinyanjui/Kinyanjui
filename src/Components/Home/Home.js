@@ -14,7 +14,7 @@ function Home() {
     <div className='home2'>
   
      <h1 className='myName'><b>Joan Kinyanjui</b></h1><br />
-     <h2><b>~FRONT-END DEVELOPER ~</b></h2><br />
+     <h2><b>~FULL-STACK DEVELOPER /BLOCKCHAIN DEVELOPER ~</b></h2><br />
      <a href="mailto:kinyanjuijoan52@gmail.com">
        <Button style={{
        color:'gray',
