@@ -25,9 +25,11 @@ Here are a few technologies that I have worked with:
 <br />
 <ul class='skills-set'>
 <li class="skills">JavaScript</li>
-<li class="skills">Node js</li>
 <li class="skills">ReactJs</li>
+<li class="skills">Node js</li>
 <li class="skills">Express</li>
+<li class="skills">Nextjs</li>
+<li class="skills">Solidity</li>
 <li class="skills">Redux</li>
 <li class="skills">Postgresql</li>
 <li class="skills">Mongodb</li>
