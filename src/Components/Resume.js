@@ -9,7 +9,7 @@ function Resume() {
      <div className='goBack'>
         <button onClick={() => navigate(-1)} className='goback-button'> back</button>
     </div>
-        <img  src='/Images/cv-2022-1.jpg' className='resume-img'/>
+        <img  src='/Images/joanCV2022.png' className='resume-img'/>
     </div>
   )
 }
