@@ -36,7 +36,7 @@ function Projects(){
 <p>Whitelisting Dapp</p>
          </div>
         <div className='container-item'>
-         <a href='https://code-for-impact-site-ne25.vercel.app/'><img className='project-img' alt='whitelisting dapp'  src='/Images/codeforimpact.png'/></a>
+         <a href='https://code-for-impact-site-ne25.vercel.app/'><img className='project-img' alt='codeforimpact'  src='/Images/codeforimpact.png'/></a>
 <p>Code For Impact Landing App</p>
          </div>
      </div>
