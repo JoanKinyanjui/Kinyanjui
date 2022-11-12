@@ -4,7 +4,7 @@
   height: 100vh;
   text-align: center;
   justify-content: center;
-  background-color: black;
+  /* background-color: black; */
   color: gray;
 }
 .item{
@@ -23,7 +23,7 @@
 }
 .me{
   width: 50%;
-  height: 80%;
+  height: 70%;
   padding-top: 1rem;
   padding-left: 1rem;
   border-top: 2px solid blueviolet;
@@ -40,5 +40,8 @@
     flex-direction: column;
     height: max-content;
     padding-top: 4rem;
+  }
+  .me{
+    height: 60vw;
   }
 }

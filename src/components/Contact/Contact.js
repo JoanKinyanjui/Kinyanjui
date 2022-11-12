@@ -29,19 +29,19 @@ import './Contact.css';
           setTextInput('')
          }
         return (
-          <div className='Contact-main'>
+          <div className='Contact-main w-screen font-serif  text-base md:text-xl text-gray-300'>
           <h1 className='h1'>~ Contact Me ~</h1>
-            <div className='Contact'>
+            <div className='Contact w-3/4 mx-auto' >
             <div className='contact-2'>
-              <ul className='location'>
+              <ul className='location text-gray-300'>
                 <li >
-                  <a> <i class="fas fa-2x fa-map-marker-alt"></i> <p  className='location-icon' >Nairobi,Kenya. </p></a>
+                  <a> <i class="fas fa-2x fa-map-marker-alt"></i> <p  className='location-icon text-gray-300' >Nairobi,Kenya. </p></a>
                 </li>
                 <li>
-                <a ><i class="fas fa-2x fa-2x fa-envelope"></i>  <p  className='location-icon' >kinyanjuijoan52@gmail.com </p></a>
+                <a ><i class="fas fa-2x fa-2x fa-envelope"></i>  <p  className='location-icon text-gray-300' >kinyanjuijoan52@gmail.com </p></a>
                 </li>
                 <li>
-                  <a> <i class="fas fa-2x fa-phone-alt"></i> <p  className='location-icon' > +254790236990 </p> </a>
+                  <a> <i class="fas fa-2x fa-phone-alt"></i> <p  className='location-icon text-gray-300' > +254790236990 </p> </a>
                 </li>
               </ul>
             </div>
@@ -90,9 +90,9 @@ import './Contact.css';
     </div>
            
             </div>
-            <div className='div-logo'>
+            {/* <div className='div-logo'>
               <img  className='logo' src='/Images/mylogo.png'/>
-            </div>
+            </div> */}
             <div class='handcraft'>
               <hr />
         <div class='hr'>

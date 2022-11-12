@@ -1,0 +1,8 @@
+.Home{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('/public/Images//2.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}

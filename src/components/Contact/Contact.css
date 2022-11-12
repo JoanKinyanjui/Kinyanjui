@@ -6,7 +6,7 @@
 .Contact{
     width: 100vw;
     height: max-content;
-    color: gray;
+    /* color: gray; */
     text-align: center;
     display: flex;
     flex-direction: row;
@@ -17,7 +17,7 @@
     text-align: center;
     margin: auto;
     background-color: black;
-    color: gray;
+    /* color: gray; */
 }
 .contact-1{
     flex: 50%;
@@ -48,7 +48,7 @@
     margin-top: 2rem;
 }
 .handcraft{
-    color: gray;
+    /* color: gray; */
     text-align: center;
     background-color: black;
     font-size: x-small;
@@ -64,7 +64,7 @@
 margin-bottom: 2rem; color: blueviolet;
 }
 .location-icon{
-    color: gray;
+    /* color: gray; */
     font-size: small;
 }
 

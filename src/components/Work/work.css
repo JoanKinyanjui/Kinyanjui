@@ -1,6 +1,6 @@
 .All{
     background-color: black;
-    color: gray;
+    /* color: gray; */
     text-align: center;
     height: max-content;
     width: 100vw;
@@ -12,7 +12,6 @@
 .Work{
     width: 100vw;
     height: max-content;
- 
     text-align: center;
     justify-content: center;
     margin: auto;
@@ -20,9 +19,12 @@
     flex-wrap: wrap;
     padding-bottom: 4rem;
 }
+.card{
+    height: max-content;
+}
 .container{
     width: 15vw;
-    height: 25vh;
+    height:15vh ;
     box-shadow: 2px 2px 4px blueviolet;
     margin: 1rem;
     font-size: small;
@@ -33,7 +35,7 @@
 .container:hover{
     box-shadow: 2px 2px 4px blueviolet;
     color: black;
-    background-color: gray;
+    /* background-color: gray; */
     padding: 3px;
     text-align: center;
     border-radius: 5px;
@@ -43,14 +45,14 @@
 @media only screen and (max-width: 980px) {
     .container{
        width: 25vw;
-       height: 25vh;
+       height: 17vh;
      
     }
   }
   @media only screen and (max-width: 680px) {
     .container{
        width: 35vw;
-       height: 25vh;
+       height: 17vh;
      
     }
   }
