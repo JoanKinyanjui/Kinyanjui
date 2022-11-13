@@ -6,7 +6,8 @@ module.exports = {
     './src/components/Socials.js',
     './src/components/Contact/Contact.js',
     "./src/components/About/About.js",
-    "./src/components/Work/work.js"
+    "./src/components/Work/work.js",
+    './src/components/Projects/Projects.js'
   ],
   theme: {
     extend: {},

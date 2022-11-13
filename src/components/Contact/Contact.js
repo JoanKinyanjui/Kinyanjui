@@ -33,7 +33,7 @@ import './Contact.css';
           <h1 className='h1'>~ Contact Me ~</h1>
             <div className='Contact w-3/4 mx-auto' >
             <div className='contact-2'>
-              <ul className='location text-gray-300'>
+              <ul className='location text-gray-300 flex justify-content-center'>
                 <li >
                   <a> <i class="fas fa-2x fa-map-marker-alt"></i> <p  className='location-icon text-gray-300' >Nairobi,Kenya. </p></a>
                 </li>
@@ -69,7 +69,7 @@ import './Contact.css';
           value={textInput}
           onChange={onTextChange}
            style={{ margin:'2rem',borderRadius:'5px', border:'none'}}
-           className='form-control' cols='40' rows='9'>
+           className='form-control' cols='30' rows='8'>
       
           </textarea>
           <br />

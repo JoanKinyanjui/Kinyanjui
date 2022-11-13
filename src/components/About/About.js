@@ -13,7 +13,7 @@ export default function About() {
       <div className='item  w-5/6  mx-auto  md:w-3/4 md:h-screen max-h-max grid place-items-center py-8 md:py-0'>
 <div className='grid justify-items-center w-5/6'>
 <h1> ~ About Me ~</h1>
-        <p className='xs:text-sm md:text-base'>
+        <p className='xs:text-sm md:text-base w-full'>
         I am  a front-end developer located in Nairobi ,Kenya.I have serious passion for creating  attractive, user-friendly, easy to use and responsive designs
 for websites,webapps and applications.My interest lies in the whole front-end spectrum and working on ambitious projects for creative and positive people.
 This site is a place for me to showcase some of my projects. I am a well-organised person, an independent employee with high attention to detail which makes me an amazing problem-solver.
