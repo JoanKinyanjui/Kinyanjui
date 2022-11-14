@@ -24,7 +24,7 @@ love for making things, and my mission-driven work ethic to literally change the
 <div class="skills flex py-8 justify-between">
 
 <div className='block'>
-<p className='whitespace-nowrap '>frontend development</p>
+<p className='whitespace-nowrap '>~Frontend~</p>
 <ul class='skills-set italic xs:text-sm md:text-base list-disc '>
 <li class="skills">JavaScript</li>
 <li class="skills">ReactJs</li>
@@ -38,7 +38,7 @@ love for making things, and my mission-driven work ethic to literally change the
 </ul>
 </div>
 <div className='block'>
-<p className='whitespace-nowrap '>backened-development</p>
+<p className='whitespace-nowrap '>~Backened~</p>
 <ul class='skills-set italic xs:text-sm md:text-base list-disc'>
 <li class="skills">Node js</li>
 <li class="skills">Express</li>
@@ -48,7 +48,7 @@ love for making things, and my mission-driven work ethic to literally change the
 </ul>
 </div>
 <div className='block'>
-<p className='whitespace-nowrap'>blockchain-development</p>
+<p className='whitespace-nowrap'>~Blockchain~</p>
 <ul class='skills-set italic xs:text-sm md:text-base list-disc'>
 <li class="skills">Solidity</li>
 </ul>
