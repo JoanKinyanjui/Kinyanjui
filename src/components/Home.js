@@ -27,7 +27,7 @@ function Home() {
 <div className='w-1/2 grid place-content-start my-auto  relative'>
 <div className='w-full  grid justify-items-start '>
 <p className='place-content-left flex text-4xl md:text-6xl py-2 font-medium text-gray-300'>JOAN KINYANJUI</p>
-  <p  className='place-content-left flex text-xl text-2xl pb-8 font-medium text-gray-300 italic'>~FRONTEND DEVELOPER~</p>
+  <p  className='place-content-left flex text-xl text-2xl pb-8 font-medium text-gray-300 italic'>~ FRONTEND DEVELOPER ~</p>
   <a href="mailto:kinyanjuijoan52@gmail.com">
 <button className='place-content-left flex py-2 font-medium bg-purple-700 px-4 py-2 rounded-full text-gray-300'>Hire Me</button>
 </a>
